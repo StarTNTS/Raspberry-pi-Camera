@@ -2,9 +2,9 @@
 Add a camera module into your Raspberry pi easily! 
 
 Things you need:
-A Raspberry pi Model B with a raspbian system(including recommended applications)
-A camera with CSI wires
-Other simple things like screen or battery......
+1.A Raspberry pi Model B with a raspbian system(including recommended applications)
+2.A camera with CSI wires
+3.Other simple things like screen or battery......
 
 Steps:
 1.Download the file, unzip it.
