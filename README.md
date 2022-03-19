@@ -16,4 +16,5 @@ Steps:
 7.Click on the menu icon,find"Raspberry Configurations",click on"Interface",make the camera enabled.
 8.Click"Save",the system will remind you to reboot.
 9.Turn on it again.It is almost done.
-10.Simply click on the StarCamera.desktop icon,choose"run",and you can take photos!
+10.Create a folder names"Saves"on the desktop.
+11.Simply click on the StarCamera.desktop icon,choose"run",and you can take photos!
